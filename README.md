@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**JacKC-s/JacKC-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jack, a Computer Science student at Virginia Tech 🦃
 
-Here are some ideas to get you started:
+Been interested in programming since I did Lego Mindstorm Robotics in 5th Grade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning C++ development -
+Hoping to make it into Embedded Software someday.
+
+Current Stack is React.js, JavaScript, tailwind for front end; Python and Flask for Backend.
+
+[Contact me here](https://www.linkedin.com/in/jack-costello-466658322/) on LinkedIn.
+
+# Facts about me
+  - Hobbies: Gym, Fencing 🤺, Cooking
+  - Black Coffee >>>
+  - Suprisingly Good investor
+  - I started community college in highschool
