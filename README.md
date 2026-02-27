@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Jack, a Computer Science student at Virginia Tech 🦃
+I'm Jack, an Electrical Engineering student at Virginia Tech 🦃
 
 Been interested in programming since I did Lego Mindstorm Robotics in 5th Grade.
 
